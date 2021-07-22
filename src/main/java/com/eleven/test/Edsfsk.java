@@ -5,5 +5,6 @@ public class Edsfsk {
         System.out.println("master1");
         System.out.println("master2");
         System.out.println("else1");
+        System.out.println("123")
     }
 }
